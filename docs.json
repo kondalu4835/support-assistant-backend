@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Reset Password",
+    "content": "Users can reset their password by navigating to Settings > Security > Reset Password. Enter your registered email address and you will receive a password reset link within 2-3 minutes. The link expires after 24 hours. If you don't receive the email, check your spam folder or contact support."
+  },
+  {
+    "title": "Refund Policy",
+    "content": "Refunds are allowed within 7 days of purchase. To request a refund, go to Account > Orders > Select Order > Request Refund. Refunds are processed within 5-7 business days back to your original payment method. Digital products are non-refundable once downloaded."
+  },
+  {
+    "title": "Account Creation",
+    "content": "To create an account, click 'Sign Up' on the homepage. Enter your name, email address, and a strong password. Verify your email by clicking the link sent to your inbox. Once verified, you can log in and access all features."
+  },
+  {
+    "title": "Cancel Subscription",
+    "content": "To cancel your subscription, go to Account > Subscription > Cancel Plan. Your access will continue until the end of the current billing period. You will not be charged after cancellation. Cancellations cannot be reversed for the current billing cycle."
+  },
+  {
+    "title": "Payment Methods",
+    "content": "We accept Visa, MasterCard, American Express, PayPal, and UPI payments. Credit and debit cards are charged immediately upon checkout. You can update your payment method from Account > Billing > Payment Methods."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "content": "Enable 2FA from Settings > Security > Two-Factor Authentication. We support authenticator apps like Google Authenticator and Authy. After enabling 2FA, you will need to enter a 6-digit code each time you log in. Backup codes are provided during setup — store them safely."
+  },
+  {
+    "title": "Data Export",
+    "content": "You can export your data by going to Settings > Privacy > Export Data. A download link will be emailed to you within 24 hours. The export includes all your account activity, messages, and files in JSON and CSV formats."
+  },
+  {
+    "title": "Contact Support",
+    "content": "You can contact support via email at support@company.com or through the in-app chat available Monday to Friday 9am–6pm IST. For urgent issues, call our helpline at 1800-123-456. Average response time is under 4 hours for email tickets."
+  },
+  {
+    "title": "Free Trial",
+    "content": "A 14-day free trial is available for all new users. No credit card is required for the trial. At the end of the trial, you can choose a paid plan or your account will revert to the free tier with limited features."
+  },
+  {
+    "title": "Pricing Plans",
+    "content": "We offer three plans: Free (5 projects, 1GB storage), Pro at $12/month (unlimited projects, 50GB storage, priority support), and Enterprise at $49/month (custom storage, SSO, dedicated account manager). Annual billing saves 20%."
+  },
+  {
+    "title": "File Upload Limits",
+    "content": "Free accounts can upload files up to 10MB each. Pro accounts support files up to 250MB. Enterprise accounts support files up to 2GB. Supported formats include PDF, DOCX, XLSX, PNG, JPG, MP4, and ZIP."
+  },
+  {
+    "title": "API Access",
+    "content": "API access is available for Pro and Enterprise plans. Generate your API key from Settings > Developer > API Keys. The API uses REST with JSON responses. Rate limits are 100 requests/minute for Pro and 1000 requests/minute for Enterprise. Full API docs are at docs.company.com/api."
+  }
+]
