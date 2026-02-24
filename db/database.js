@@ -2,7 +2,8 @@ const fs = require("fs");
 const path = require("path");
 
 const DATA_DIR = path.join(__dirname, "../data");
-const DB_PATH = path.join(DATA_DIR, "support.db");
+const DB_PATH = process.env.DB_PATH || path.join(__dirname, "../data/support.db");
+
 
 let db = null;
 
